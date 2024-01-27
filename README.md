@@ -21,6 +21,6 @@ classifying the dataset. Explain your findings.
 e. How did you check whether your models did not overfit?
 f. Can your classification models be deployed in practice based on their performances? 
 Explain. 
-g. In the video game dataset, use a relevant categorical variable and other relevant noncategorical variables to form groups at each instance. By employing internal and 
+g. In the video game dataset, use a relevant categorical variable and other relevant non_categorical variables to form groups at each instance. By employing internal and 
 external evaluation metrics, determine which categorical variable best describes the 
 groups formed.
